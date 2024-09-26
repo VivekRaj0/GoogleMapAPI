@@ -4,3 +4,6 @@
 ## Pin without the glyph denotes starting point.
 ## Pin scaled out denotes the current position.
 ## Pin in yellow color denotes destination.
+
+# Video Link
+https://drive.google.com/file/d/1nOdKO8bCn2cwNMWlLCHMZTNfHPJLD7J0/view?usp=sharing
